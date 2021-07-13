@@ -1,0 +1,6 @@
+1. Happy ();
+2. Sad ();
+3. Angry ();
+4. Face Makin (&#129313;);
+5. surprised (&#12853267;);
+7. Bored (&#128529;);
